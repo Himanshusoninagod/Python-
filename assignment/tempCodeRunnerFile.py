@@ -1,0 +1,1 @@
+print(min(num1,num2))
