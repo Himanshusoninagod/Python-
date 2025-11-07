@@ -13,3 +13,8 @@ if (ans==rev):
     print("Pallindrom Number")
 else:
     print("Not a Pallindrome Number ")
+
+
+
+
+pallindrom,armstrong

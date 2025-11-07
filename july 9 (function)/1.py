@@ -37,7 +37,7 @@
 
 
 
-#3. return typr without arguement 
+#3. return type without arguement 
 # def multi():
 #     a=int(input("enter a number:"))
 #     b=int(input("enter a number:"))

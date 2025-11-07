@@ -31,9 +31,9 @@
 # print("Currect email and Password") if (email=="user@gmail.com" and password==1234) else print("Incorrect email and Password")
 
 #8. Check the given charecter is vovel or consonent? 
-ch=input("Enter charecter: ")
+# ch=input("Enter charecter: ") 
 # print("vovel") if (ch=='a' or ch=='e' or ch=='i' or ch=='o' or ch=='u') else print("consonent")
-print("vowel") if ("aeiou" in ch) else print("consonent")
+# print("vowel") if ("aeiou" in ch) else print("consonent") 
 
 #9. Check the year is leap year or not? 
 # year=int(input("enter year: "))

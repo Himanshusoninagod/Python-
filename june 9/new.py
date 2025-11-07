@@ -1,3 +1,5 @@
+CTRL+ALT+N
+
 # print("Hello World" ,end=" , ")
 # print('bye', end=" ")
 # print("""hello bye""")
@@ -45,9 +47,9 @@
 # a=10
 # print(sys.getsizeof(a))
 
-# se={}{1,2,3}{1:2,2:3}
+# se={},{1,2,3},{1:2,2:3}
 # print(type(se))
 
-
-
+# se={}
+# print(type(se))
 

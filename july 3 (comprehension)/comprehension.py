@@ -95,10 +95,11 @@
 # for i in tu:
 #     print(i,end=" ")
 
-li = [1,2,3,4]
-ans = [True if [i for i in li if li.count(i)>1 ] else False ]
-print(ans)
+# li = [1,2,3,4]
+# ans = [True if [i for i in li if li.count(i)>1 ] else False ]
+# print(ans)
 
 
-
+# x = [(x,y) for x in range(2) for y in range(3)]
+# print(x)
 
