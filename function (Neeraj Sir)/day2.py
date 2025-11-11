@@ -75,7 +75,9 @@
 # print(x)
 
 
-# define global variable - 
+# Define global variable -
+ 
+ 
 # x,y = 10,20
 # def add():
 #     global z
@@ -85,12 +87,12 @@
 # print(z)
 
 
-x=10
-def add():
-    x=20
-    print(globals()['x']+x)
-add()
-print(x)
+# x=10
+# def add():
+#     x=20
+#     print(globals()['x']+x)
+# add()
+# print(x)
 
 
 

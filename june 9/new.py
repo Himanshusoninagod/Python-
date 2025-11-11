@@ -1,4 +1,4 @@
-CTRL+ALT+N
+# CTRL+ALT+N 
 
 # print("Hello World" ,end=" , ")
 # print('bye', end=" ")
@@ -35,11 +35,15 @@ CTRL+ALT+N
 
 # a=(1,1,1)
 # b=(1,1,1)
+# print(type(a))
+# print(type(b))
 # print(id(a))
 # print(id(b))
 
 # a=[1,1,1]
 # b=[1,1,1]
+# print(type(a))
+# print(type(b))
 # print(id(a))
 # print(id(b))
 
